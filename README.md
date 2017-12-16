@@ -15,20 +15,20 @@ script helps you in solving most of the problems of Kali linux
 cd Desktop && git clone https://github.com/lamanihani/kali-fixer.git
 ```
 
-4 - open new terminal
+2 - open new terminal
 
-5 - type
+3 - type
 ```
 cd Desktop/kali-fixer
 ```
 
-6 - use the follow comand to install the new package and running kali-fixer
+4 - use the follow comand to install the new package and running kali-fixer
 
 ```
 python3 install.py
 python kali-fixer.py
 ```
 
-7 - fix your problems and get fun ^_^
+5 - fix your problems and get fun ^_^
 
 fb : www.facebook.com/lamanihani
